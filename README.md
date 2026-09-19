@@ -6,7 +6,6 @@ A self-contained arcade game built with HTML Canvas, CSS, and vanilla JavaScript
 
 Double-click `index.html`. No install, server, account, or internet required.
 
-Official publishing instructions: https://docs.github.com/en/pages/getting-started-with-github-pages/configuring-a-publishing-source-for-your-github-pages-site
 
 ## Controls and rules
 
